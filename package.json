@@ -1,6 +1,6 @@
 {
   "name": "hyper-secret-sharing",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Secret sharing over hypercore",
   "main": "index.js",
   "scripts": {
